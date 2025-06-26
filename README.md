@@ -43,3 +43,15 @@ Selection Sort repeatedly:
 2. Compile using:
    ```bash
    g++ selection_sort.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
+## 🐍 Python Version (Matplotlib)
+
+This version visualizes Selection Sort using Python and `matplotlib`. It dynamically updates the bar chart after each swap for a clear view of sorting progress.
+
+### 📦 Requirements
+
+Install dependencies with:
+
+```bash
+pip install matplotlib
+
